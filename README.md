@@ -5,14 +5,18 @@ Blenderのかゆいところに手が届くかもしれない機能が詰まっ�
 <br>
 > Add-ons that extend Blender with a huge number of useful features<br>
 
+[フォーク元リポジトリ](https://github.com/bookyakuno/Blender-Scramble-Addon)から部分的に使いやすさを向上してあります。
+<br>
+> Partial usability improvements have been made from [the original fork repositories](https://github.com/bookyakuno/Blender-Scramble-Addon).<br>
+
 ## ダウンロード(Download)
 
-- **[Release](https://github.com/bookyakuno/Blender-Scramble-Addon/releases)**
+- **[Release](https://github.com/nisshi-dev/Blender-Scramble-Addon/releases)**
 
 ## インストール (Installation)
 
 1. 下記のリンクから、好きなアドオンバージョンをダウンロードします
-    - **[Release](https://github.com/bookyakuno/Blender-Scramble-Addon/releases)**
+    - **[Release](https://github.com/nisshi-dev/Blender-Scramble-Addon/releases)**
 3. 設定 > アドオン > "インストール..." ボタンにて、zipファイルのままアドオンをインストールします
     - インストールがうまく行かない場合は、zipファイルを解凍したフォルダを、下記のaddonsフォルダ内に置いて下さい
     - (Windowsの場合： C:\Users\ユーザー名\AppData\Roaming\Blender Foundation\Blender\バージョン\scripts\addons)
@@ -21,7 +25,7 @@ Blenderのかゆいところに手が届くかもしれない機能が詰まっ�
 8. 左上の「ファイル」メニューに「全体処理」という項目が追加されていればインストール成功です
 
 > Download your favorite add-on version from the link below<br>
-    > - **[Release](https://github.com/bookyakuno/Blender-Scramble-Addon/releases)**<br>
+    > - **[Release](https://github.com/nisshi-dev/Blender-Scramble-Addon/releases)**<br>
 
 > Place a unzip folder in the addons folder of Blender.<br>
 > (If on Windows 7: C:\Users\\(UserName)\AppData\Roaming\Blender Foundation\Blender\\(Version)\scripts\addons)<br>
