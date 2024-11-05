@@ -21,8 +21,8 @@ class Viewnumpad7AlignEX(bpy.types.Operator):
 		("TOP", "Top", "", 5),
 		("BOTTOM", "Bottom", "", 6),
 	]
-	#TOPを銭湯に来るように変更
 
+	#UIでTOPが来るように変更
 	method : EnumProperty(name="Direction", items=items, default="TOP")
 	
 	def execute(self, context):
